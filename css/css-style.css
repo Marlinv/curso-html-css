@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@400;500&display=swap');
+
+
+body {
+    background: url(../imagenes/portada-bajo-volumen.jpg);
+}
+
+h1,
+h2,
+p,
+li {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+img {
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 5%;
+}
+
+i {
+    color: white;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+nav a {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-1_quien_soy h1 i {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-2_unica h1 p {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-3_yo h1 p {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-4_feliz h1 li {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-5_enojada {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-6_personalidad h1 {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-7_multiple h1 {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-8_virtudes {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-9_frase h1 {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-10_metas_corto h1 h2 p i {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+p,
+li {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: left;
+    color: white;
+}
+
+.la-class-11_metas_mediano h1 h2 p li {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-12_metas_largo h1 h2 p li {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
+
+.la-class-13_agradecimiento h1 p {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+}
